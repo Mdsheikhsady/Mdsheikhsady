@@ -12,7 +12,7 @@ Skills: REACT / JS / HTML / CSS / MONGODB / FIREBASE / NEXT JS / EXPRESS JS
 - 📫 How to reach me: Phone: +8801790097732 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mdsheikhsady)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sheikh-sady//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mdsheikhsady)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://https://www.linkedin.com/in/md-sheikh-sady//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Mdsheikhsady)](https://github.com/anuraghazra/github-readme-stats)
 
